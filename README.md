@@ -7,6 +7,7 @@
 - [The hunt for Chromium issue 1072171](https://sensepost.com/blog/2020/the-hunt-for-chromium-issue-1072171/) 2020年
 - [Fuzzing JavaScript Engines with Fuzzilli](https://blog.doyensec.com/2020/09/09/fuzzilli-jerryscript.html) 2020年
 - 论文：[FuzzIL: Coverage Guided Fuzzing for JavaScript Engines](https://saelo.github.io/papers/thesis.pdf) 2018年
+- [How Fuzzilli Works](https://github.com/googleprojectzero/fuzzilli/blob/main/Docs/HowFuzzilliWorks.md)
 
 ## Hexacon 2024
 - [Caught in the wild, past, present and future by Clem1](https://www.youtube.com/watch?v=2zrcemxCg4Y)

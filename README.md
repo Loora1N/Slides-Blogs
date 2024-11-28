@@ -29,7 +29,7 @@
 - [A New Era of macOS Sandbox Escapes: Diving into an Overlooked Attack Surface and Uncovering 10+ New Vulnerabilities](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
   - Mickey 大佬关于 macOS App 沙箱的研究
  
-## Browser 2024
+## Browser
 - [Bucket Effect on JS Engine: Exploiting Chrome Browser through WASM Flaws](https://www.geekcon.top/js/pdfjs/web/viewer.html?file=/doc/ppt/Bucket_Effect_on_JS_Engine_Exploiting_Chrome_Browser_through_WASM_Flaws_v1.0.pdf)
   - 玄武实验室的佬关于浏览器安全的研究
 - [JIT Spray](https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/#jit-spraying-shellcode)

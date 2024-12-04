@@ -1,6 +1,14 @@
 # Slides-Blogs
 一些还不错的Slides和Blogs记录
 
+## Browser
+- [V8-blog](https://v8.dev/blog)
+- [Bucket Effect on JS Engine: Exploiting Chrome Browser through WASM Flaws](https://www.geekcon.top/js/pdfjs/web/viewer.html?file=/doc/ppt/Bucket_Effect_on_JS_Engine_Exploiting_Chrome_Browser_through_WASM_Flaws_v1.0.pdf)
+  - 玄武实验室的佬关于浏览器安全的研究
+- [JIT Spray](https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/#jit-spraying-shellcode)
+- [Attacking Client-Side JIT Compilers](https://saelo.github.io/presentations/blackhat_us_18_attacking_client_side_jit_compilers.pdf)
+  - [Samuel Groß](https://github.com/saelo)大佬在2018年Black Hat USA的议题
+
 ## fuzzilli
 
 - [(Guided-)fuzzing for JavaScript engines](https://saelo.github.io/presentations/offensivecon_19_fuzzilli.pdf) 2019年
@@ -28,11 +36,3 @@
   - Systemization of Knowledge，总结各种游戏 hacking 的手法
 - [A New Era of macOS Sandbox Escapes: Diving into an Overlooked Attack Surface and Uncovering 10+ New Vulnerabilities](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
   - Mickey 大佬关于 macOS App 沙箱的研究
- 
-## Browser
-- [V8-blog](https://v8.dev/blog)
-- [Bucket Effect on JS Engine: Exploiting Chrome Browser through WASM Flaws](https://www.geekcon.top/js/pdfjs/web/viewer.html?file=/doc/ppt/Bucket_Effect_on_JS_Engine_Exploiting_Chrome_Browser_through_WASM_Flaws_v1.0.pdf)
-  - 玄武实验室的佬关于浏览器安全的研究
-- [JIT Spray](https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/#jit-spraying-shellcode)
-- [Attacking Client-Side JIT Compilers](https://saelo.github.io/presentations/blackhat_us_18_attacking_client_side_jit_compilers.pdf)
-  - [Samuel Groß](https://github.com/saelo)大佬在2018年Black Hat USA的议题

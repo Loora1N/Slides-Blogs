@@ -34,3 +34,5 @@
 - [Bucket Effect on JS Engine: Exploiting Chrome Browser through WASM Flaws](https://www.geekcon.top/js/pdfjs/web/viewer.html?file=/doc/ppt/Bucket_Effect_on_JS_Engine_Exploiting_Chrome_Browser_through_WASM_Flaws_v1.0.pdf)
   - 玄武实验室的佬关于浏览器安全的研究
 - [JIT Spray](https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/#jit-spraying-shellcode)
+- [Attacking Client-Side JIT Compilers](https://saelo.github.io/presentations/blackhat_us_18_attacking_client_side_jit_compilers.pdf)
+  - [Samuel Groß](https://github.com/saelo)大佬在2018年Black Hat USA的议题

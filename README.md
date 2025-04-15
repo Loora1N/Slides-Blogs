@@ -8,6 +8,8 @@
 - [JIT Spray](https://www.matteomalvica.com/blog/2024/06/05/intro-v8-exploitation-maglev/#jit-spraying-shellcode)
 - [Attacking Client-Side JIT Compilers](https://saelo.github.io/presentations/blackhat_us_18_attacking_client_side_jit_compilers.pdf)
   - [Samuel Groß](https://github.com/saelo)大佬在2018年Black Hat USA的议题
+- [Bridging the Gap: Type Confusion and Boundary Vulnerabilities Between WebAssembly and JavaScript in V8](https://i.blackhat.com/Asia-25/Asia-25-Zhenghang-Bridging-the-Gap.pdf)
+  - BlackHat Asia 2025 Skr&KP
 
 ## fuzzilli
 
